@@ -28,3 +28,7 @@ Attack Options:
   
 [6] Zero Logon Attack Test on Domain Controller   (Testing a vulnerability CVE-2020-1472)
 
+Note:
+
+1) Results will be saved as 'soc_checker_results.txt' in current folder.
+2) Activity will be logged at '/var/log/soc_checker.log'.
