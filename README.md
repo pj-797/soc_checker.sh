@@ -1,4 +1,5 @@
 # soc_checker.sh
+Centre for Cybersecurity Project
 Mission:
 
 One of the biggest challenges in managing SOC teams is keeping the teams alerted. An incident that is not properly managed can bring an organization great damage.
